@@ -2,7 +2,7 @@
 	CSS BATTLE - Piano
 </h1>
 
-<p align="center">Desafio de css realizado no site [CSSBattle](https://cssbattle.dev/).</p>
+<p align="center">Desafio de css realizado no site CSSBattle.</p>
 
 <div align="center">
   <a href="https://github.com/dnlcorona">
@@ -22,7 +22,7 @@
 
 ## 📁 Projeto
 
-O desafio consiste em produzir com perfeição o objeto indicado, nesse repositório foi realizado o desafio do [Piano](cssbattle.dev/play/80).
+O desafio consiste em produzir com perfeição o objeto indicado, nesse repositório foi realizado o desafio do [Piano](https://cssbattle.dev/play/80).
 <p></p>
 Para obter mais pontos no site, é necessário reproduzir com perfeição o objeto no menor número de caracteres escritos possível.
 
